@@ -2,5 +2,5 @@
 	"ip":"ParTroops.aternos.me",
 	"port": "25565",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
